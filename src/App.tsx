@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="aplicacion-tareas">
       <div className="tareas-lista-principal">
-        <h1>Mis Tareas</h1>
+        <h1>Mis Tareas  nuevas</h1>
         <ListaDeTareas />
       </div>
     </div>
